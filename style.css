@@ -1,0 +1,12 @@
+/* style.css */
+
+h1 {
+    color:blueviolet;
+    font-family: sans-serif;
+    text-align:center;
+}
+
+#list {
+    color:green;
+    text-align:right;
+}

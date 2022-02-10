@@ -1,0 +1,27 @@
+/* style.css */
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    font-weight:bold;
+    color:lavender;
+    text-align:center;
+}
+
+img {
+    height:auto;
+    width:300px;
+}
+
+li {
+    color:gold;
+    text-align:left;
+    background-color:black;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 120px;
+    color:blueviolet;
+    text-align:right;
+}
